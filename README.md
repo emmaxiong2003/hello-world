@@ -1,2 +1,2 @@
 # hello-world
-help lol
+print("help lol")
